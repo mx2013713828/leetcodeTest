@@ -9,7 +9,7 @@ class Tree:
         self.val = x
         self.left = left
         self.right = right
-#digui 
+#digui
 class Trave:
     def __init__(self):
 
